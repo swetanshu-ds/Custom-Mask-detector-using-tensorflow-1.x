@@ -1,5 +1,5 @@
 # Custom-Mask-detector-using-tensorflow-1.x
-
+https://github.com/tensorflow/models/blob/v1.13.0/research/object_detection/g3doc/detection_model_zoo.md
 
 1. Open google colab
 2. upload the tfod1. training.ipynb file on colab 
