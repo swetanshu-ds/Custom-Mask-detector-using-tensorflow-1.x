@@ -29,4 +29,4 @@ https://github.com/tensorflow/models/blob/v1.13.0/research/object_detection/g3do
 
 20 . Inferenceing with our trained model
 21. Go to research object_detection and then to object_detection_tutorial.ipynb and open it in google colab.
-22. 
+22. After all this run the setup object_detection_tutorial.py
