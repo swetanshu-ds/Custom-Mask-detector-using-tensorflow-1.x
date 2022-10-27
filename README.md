@@ -24,3 +24,9 @@ https://github.com/tensorflow/models/blob/v1.13.0/research/object_detection/g3do
 
 17 The training will take so much time.
 
+18. Now go to research object_detection folder and move the export_inference_graph.py file to the research folder
+19. Convert Checkpoints to Frozen Inference Graph - run the  code of .ipynb file below this
+
+20 . Inferenceing with our trained model
+21. Go to research object_detection and then to object_detection_tutorial.ipynb and open it in google colab.
+22. 
