@@ -4,9 +4,9 @@ https://github.com/tensorflow/models/blob/v1.13.0/research/object_detection/g3do
 1. Open google colab
 2. upload the tfod1. training.ipynb file on colab 
 3. remember that the model folder v1.13.0 should be present in the tfod1.x folder.
-4. now upload the dataset given in the github repo which contains images as train and test in zip format in the models -> research folder 
+4. now upload the dataset.zip on the google drive within the TFOD1.x models research folder  given in the github repo which contains images as train and test in                       zip format in the models -> research folder 
 5. move the utils sub file folder from models utils to google drive research folder 
-6. Nw go to the TFOD1.x file in google dirve then go to models then reseearch then go to training than faster rcnn config and change the required changes .ie,
+6. Now go to the TFOD1.x file in google dirve then go to models then reseearch then go to training than faster rcnn config and change the required changes .ie,
 
 7. num_classes = 2
 8. line 107  - PATH TO BE CONFIGURED = faster_rcnn
@@ -18,8 +18,9 @@ https://github.com/tensorflow/models/blob/v1.13.0/research/object_detection/g3do
 
 14. Now in research folder there is a folder slim move the deployment and nets folder from slim to research main 
 
+15. Time to start training -
 
-15. then run this TFOD1_x_training.ipynb file from starting to end
+16. For this train.py file should be moved to research folder from legacy inside object_detection folder.
 
-
+17 The training will take so much time.
 
